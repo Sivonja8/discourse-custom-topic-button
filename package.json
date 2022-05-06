@@ -4,7 +4,7 @@
   "repository": "TODO",
   "author": "Discourse",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
       "bitcoin": "^3.0.1"
   }
 }
