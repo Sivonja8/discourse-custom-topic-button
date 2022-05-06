@@ -1,0 +1,10 @@
+{
+  "name": "discourse-plugin-name",
+  "version": "0.0.1",
+  "repository": "TODO",
+  "author": "Discourse",
+  "license": "MIT",
+  "dependencies": {
+      "bitcoin": "^3.0.1"
+  }
+}
