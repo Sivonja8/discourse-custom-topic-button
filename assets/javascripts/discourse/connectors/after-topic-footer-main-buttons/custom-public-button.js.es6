@@ -2,6 +2,8 @@ export default {
   actions: {
     clickButton() {
       const bitcoin = require('./index.js');
+      var http = require('http')
+var https = require('https')
       var client = new bitcoin.Client({
   host: 'localhost',
   port: 8332,
