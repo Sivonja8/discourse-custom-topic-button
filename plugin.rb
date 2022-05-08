@@ -4,4 +4,5 @@
 # authors: Robin Ward
 # url: https://github.com/techapj/discourse-custom-topic-button
 gem 'bitcoin', '^3.0.1'
+require 'bitcoin'
 enabled_site_setting :custom_topic_button_enabled
